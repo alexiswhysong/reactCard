@@ -1,4 +1,6 @@
 {
+    "homepage": "<alexiswhysong>.github.io/<reactCard>",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
